@@ -1,7 +1,3 @@
-Here's an aesthetic README for your chat application project based on the provided Python files:
-
----
-
 # Chat Application 📡💬
 
 A lightweight and user-friendly chat application built with Python. This project includes a **server** to manage connections and a **client** with a graphical user interface for seamless communication.
