@@ -56,7 +56,8 @@ cd <repository-folder>
 ## Screenshots 📸
 
 ### Chat Interface (Client)
-![Client Screenshot](https://via.placeholder.com/800x400?text=Chat+Client+Interface)
+![image](https://github.com/user-attachments/assets/7a4cc23f-7c17-4fd1-92b3-42becd37ec4f)
+
 
 ---
 
